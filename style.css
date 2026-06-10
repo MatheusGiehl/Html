@@ -1,0 +1,13 @@
+body {
+    color: #FFF;
+    background-color: #000067;
+}
+
+.img {
+    height: 200px;
+    width: 800px;
+}
+
+#nome {
+    background-color: red;
+}
